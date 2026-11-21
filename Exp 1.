@@ -1,3 +1,5 @@
+# Experiment 1: Basic Hardware Components & Networking Commands
+
 ## Hardware Components
 * **NIC (Network Interface Card):** Hardware component enabling device connectivity to a network.
 * **Switch:** Layer 2 device connecting devices within a LAN using MAC addresses.
